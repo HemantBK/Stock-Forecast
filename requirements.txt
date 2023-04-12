@@ -1,0 +1,6 @@
+matplotlib==3.7.1
+pandas==2.0.0
+Pillow==9.5.0
+plotly==5.14.1
+statsmodels==0.13.5
+streamlit==1.12.0
