@@ -14,7 +14,7 @@ The project is organized as follows:
 6) requirements.txt: This file lists the required Python libraries and their versions for reproducing the project environment.
 7) README.md: This file provides an overview of the project and instructions for running the code.
 
-## Setup and Installation
+### Setup and Installation
 To set up the project environment, follow these steps:
 
 1) Clone the repository to your local machine.
@@ -25,7 +25,7 @@ To set up the project environment, follow these steps:
 pip install -r requirements.txt
 ```
 
-# Usage
+### Usage
 1) Open the Jupyter notebooks in the notebooks/ directory using Jupyter Notebook or JupyterLab.
 2) Follow the instructions within the notebooks to preprocess the data, perform exploratory data analysis, build the forecasting model, and evaluate its performance.
 3) Modify the code or experiment with different models and techniques as needed.
@@ -34,8 +34,8 @@ pip install -r requirements.txt
 6) Generate reports, visualizations, or documentation in the reports/ directory.
 
 
-# Contributing
+### Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-
+### Website Link
 [Website](https://hemantbk-time-series-forecasting-app-ztpfsu.streamlit.app/)
