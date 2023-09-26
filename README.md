@@ -23,7 +23,7 @@ Navigate to the project directory.
 Create a virtual environment (optional but recommended).
 
 Install the required dependencies by running the following command:
-
+```
 pip install -r requirements.txt
 ```
 Usage
@@ -33,6 +33,8 @@ Modify the code or experiment with different models and techniques as needed.
 Use the scripts in the scripts/ directory for specific tasks or automation.
 Store trained models or serialized objects in the models/ directory for future use.
 Generate reports, visualizations, or documentation in the reports/ directory.
+
+
 Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
